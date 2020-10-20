@@ -1,0 +1,10 @@
+E:\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\QuanLyThuoc.exe.config
+E:\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\QuanLyThuoc.exe
+E:\c#\QuanLyThuoc\QuanLyThuoc\bin\Debug\QuanLyThuoc.pdb
+E:\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\QuanLyThuoc.csprojAssemblyReference.cache
+E:\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\QuanLyThuoc.Form1.resources
+E:\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\QuanLyThuoc.Properties.Resources.resources
+E:\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\QuanLyThuoc.csproj.GenerateResource.cache
+E:\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\QuanLyThuoc.csproj.CoreCompileInputs.cache
+E:\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\QuanLyThuoc.exe
+E:\c#\QuanLyThuoc\QuanLyThuoc\obj\Debug\QuanLyThuoc.pdb
